@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:local_chat_app/services/message_service.dart';
 import 'package:provider/provider.dart';
 import 'widgets/chat_message.dart';
+import 'package:tutorial_coach_mark/tutorial_coach_mark.dart';
+
+// TODO: add tutorial
 
 void main() => runApp(MyApp());
 
